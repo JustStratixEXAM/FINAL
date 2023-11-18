@@ -1,0 +1,6 @@
+C:\Users\stepg\OneDrive\Рабочий стол\EZJI\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\stepg\OneDrive\Рабочий стол\EZJI\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\stepg\OneDrive\Рабочий стол\EZJI\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\stepg\OneDrive\Рабочий стол\EZJI\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\stepg\OneDrive\Рабочий стол\EZJI\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\stepg\OneDrive\Рабочий стол\EZJI\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
